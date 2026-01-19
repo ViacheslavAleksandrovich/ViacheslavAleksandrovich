@@ -33,7 +33,7 @@ Innovative and resourceful developer with experience in building high-performanc
 ## 📌 Experience
 
 ### 🌍 Front-End Developer – **GenAIServices** (Israel)  
-*Apr 2025 – Present*  
+*Jul 2025 – Present*  
 - Built CRM and client apps for a tourism platform using React.js & Redux Toolkit  
 - Implemented modular UI components with Material UI  
 - Improved UX through performance optimization and user feedback integration  
